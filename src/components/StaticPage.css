@@ -1,0 +1,61 @@
+.static-page {
+  max-width: 600px;
+  padding: 4rem 0;
+}
+
+.static-page h2 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  letter-spacing: 1px;
+}
+
+.static-content {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #444;
+}
+
+.static-content p {
+  margin-bottom: 1.5rem;
+}
+
+.education-list {
+  list-style: none;
+  padding: 0;
+}
+
+.education-list li {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.exhibition-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+.exhibition-item h4 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  font-family: var(--font-serif);
+}
+
+.exhibition-item p {
+  margin-bottom: 0.25rem;
+  font-size: 0.95rem;
+  color: var(--text-color);
+}
+
+.exhibition-item .description {
+  font-style: italic;
+  font-size: 0.85rem;
+  color: var(--accent-color);
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .static-page {
+    padding: 2rem 0;
+  }
+}

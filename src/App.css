@@ -1,0 +1,35 @@
+.content-area {
+  flex: 1;
+  margin-left: var(--sidebar-width);
+  background-color: var(--bg-color);
+  min-height: 100vh;
+}
+
+.content-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 4rem;
+}
+
+.mobile-footer {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .content-area {
+    margin-left: 0;
+  }
+  
+  .content-wrapper {
+    padding: 0 2rem;
+  }
+
+  .mobile-footer {
+    display: block;
+    padding: 4rem 2rem 2rem;
+    text-align: center;
+    font-size: 0.75rem;
+    color: var(--accent-color);
+    letter-spacing: 1px;
+  }
+}
