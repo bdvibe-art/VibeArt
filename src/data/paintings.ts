@@ -57,5 +57,5 @@ export const paintings: Painting[] = [
   { id: '44', title: 'Vinter i nordmarka', image: '/images/img_4483.jpeg' },
   // Older
   { id: '45', title: 'Kvitfjell desember', image: '/images/img_0205.jpeg' },
-  { id: '46', title: 'Uten tittel', image: '/images/img_9752.jpeg' },
+  { id: '46', title: 'Selvportrett', image: '/images/img_9752.jpeg' },
 ];
