@@ -31,7 +31,7 @@ export const paintings: Painting[] = [
   { id: '19', title: 'Fra alpene', image: '/images/fra_alpene.jpg' },
   { id: '20', title: 'Bad på Røst', image: '/images/bad_pa_rost.jpg' },
   { id: '21', title: 'Skilek', image: '/images/skilek.jpg' },
-  { id: '22', title: 'Nude', image: '/images/nude.jpg' },
+  { id: '22', title: 'Nattebad', image: '/images/nude.jpg' },
   { id: '23', title: 'Emily og Nicho med Oda', image: '/images/en_med_oda.jpg' },
   { id: '24', title: 'Utsikt fra Veslefjellet', image: '/images/img_6437.jpeg' },
   { id: '25', title: 'Veslesetra', image: '/images/img_8248.jpeg' },
