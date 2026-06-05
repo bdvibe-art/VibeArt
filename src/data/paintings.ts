@@ -25,7 +25,7 @@ export const paintings: Painting[] = [
   { id: '10', title: 'Marokko', image: '/images/marokko.jpg', category: 'Lys og natur' },
   { id: '11', title: 'Midnattsol i Lofoten', image: '/images/img_9421.jpeg', category: 'Lys og natur' },
   { id: '12', title: 'Zermatters', image: '/images/img_6650.jpeg', category: 'Lys og natur' },
-  { id: '13', title: 'Slava Ukraina', image: '/images/img_9204.jpeg', category: 'Nært og Kjært' },
+  { id: '13', title: 'Slava Ukraina', image: '/images/img_9204.jpeg', category: 'Alle' },
   { id: '14', title: 'Over Slagfjellet', image: '/images/img_9158.jpeg', category: 'Lys og natur' },
   { id: '15', title: 'Gutta på haugen', image: '/images/img_9103.jpeg', category: 'Nært og Kjært' },
   { id: '16', title: 'Snoopy i snøen', image: '/images/img_8806.jpeg', category: 'Nært og Kjært' },
