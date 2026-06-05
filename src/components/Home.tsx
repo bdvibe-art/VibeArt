@@ -6,7 +6,7 @@ const Home: React.FC = () => {
     <div className="home-container">
       <div className="featured-image-wrapper">
         <img 
-          src="/images/Selfportrait.jpg" 
+          src="/images/selfportrait.jpg" 
           alt="Featured Artwork" 
           className="featured-image"
         />

@@ -18,8 +18,8 @@ function App() {
             title="Om meg" 
             content={
               <>
-                <p>Jeg er en engasjert kunstner basert i Oslo, og har nylig fullført mine studier ved Einar Granums Kunstfagskole. Min kunstneriske reise inkluderer også en 3-årig billedkunstutdanning ved Nydalen Kunstskole.</p>
-                <p>Tematisk jobber jeg mye med naturmalerier, nordisk lys, akt og portrett. Jeg maler hovedsakelig med olje og akryl, og utforsker skjæringspunktet mellom natur og formidling.</p>
+                <p>Jeg er en engasjert kunstner basert i Oslo, og har nylig fullført mine studier ved Einar Granums Kunstfagskole, hvor jeg har hatt maleri som valgfag. Min kunstneriske reise inkluderer også en 3-årig billedkunstutdanning ved Nydalen Kunstskole, samt kurs i innramming og akvarell i Le Vésinet, Frankrike.</p>
+                <p>Tematisk jobber jeg mye med naturmalerier, nordisk lys, akt og portrett. Naturen og lyset er viktige inspirasjonskilder for meg i mine skisser og malerier. Jeg maler naturen sånn som jeg ser den, og sånn som jeg føler og opplever den. Jeg maler hovedsakelig med olje og akryl, og utforsker skjæringspunktet mellom natur, abstraksjon og formidling.</p>
                 <p>Med en bakgrunn fra ledende roller i Hermès Oslo og IBM, bringer jeg med meg en strukturert tilnærming og et sterkt fokus på kommunikasjon til mitt kunstneriske arbeid.</p>
                 
                 <h3 style={{ marginTop: '3rem', marginBottom: '1.5rem' }}>Utdanning</h3>
