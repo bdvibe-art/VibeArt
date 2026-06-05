@@ -6,7 +6,7 @@ import './Portfolio.css';
 const Portfolio: React.FC = () => {
   const [activeFilter, setActiveFilter] = useState<Category>('Alle');
 
-  const filters: Category[] = ['Alle', 'Abstraksjon', 'Naturen kaller', 'Nært og Kjært'];
+  const filters: Category[] = ['Alle', 'Abstraksjon', 'Lys og natur', 'Nært og Kjært'];
 
   const filteredPaintings = activeFilter === 'Alle' 
     ? paintings 
