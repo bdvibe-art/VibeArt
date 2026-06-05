@@ -18,7 +18,6 @@ export const paintings: Painting[] = [
   { id: '4', title: 'Frognerbekken', image: '/images/img_0068.jpeg', category: 'Lys og natur' },
   { id: '5', title: 'Sigyns gate', image: '/images/img_0067.jpeg', category: 'Nært og Kjært' },
   { id: '6', title: 'Sommertur på Hvaler', image: '/images/img_9780.jpeg', category: 'Lys og natur' },
-  { id: '7', title: 'Solnedgang på Kvitfjell', image: '/images/img_6656.jpeg', category: 'Lys og natur' },
   { id: '8', title: 'Selvportrett', image: '/images/img_4376.jpeg', category: 'Abstraksjon' },
   { id: '9', title: 'Stilleben med sitroner', image: '/images/img_3771.jpeg', category: 'Abstraksjon' },
   { id: '47', title: 'Kjæresten', image: '/images/kjaersten.jpg', category: 'Nært og Kjært' },

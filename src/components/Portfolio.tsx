@@ -23,7 +23,6 @@ const Portfolio: React.FC = () => {
       'Veslesetra',
       'Kvitfjell desember II',
       'Kvitfjell solnedgang',
-      'Solnedgang på Kvitfjell',
       'Zermatters',
       'Skilek',
       'Skihopp',
