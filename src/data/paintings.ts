@@ -20,7 +20,7 @@ export const paintings: Painting[] = [
   { id: '6', title: 'Sommertur på Hvaler', image: '/images/img_9780.jpeg', category: 'Lys og natur' },
   { id: '8', title: 'Selvportrett', image: '/images/img_4376.jpeg', category: 'Abstraksjon' },
   { id: '9', title: 'Stilleben med sitroner', image: '/images/img_3771.jpeg', category: 'Abstraksjon' },
-  { id: '47', title: 'Kjæresten', image: '/images/kjaersten.jpg', category: 'Nært og Kjært' },
+  { id: '47', title: 'Kjærsten', image: '/images/kjaersten.jpg', category: 'Nært og Kjært' },
   // 2025
   { id: '10', title: 'Marokko', image: '/images/marokko.jpg', category: 'Lys og natur' },
   { id: '11', title: 'Midnattsol i Lofoten', image: '/images/img_9421.jpeg', category: 'Lys og natur' },
